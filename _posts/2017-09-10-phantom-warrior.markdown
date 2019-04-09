@@ -29,7 +29,7 @@ tags: [medium, undead, cr1, curse-of-strahd]
 
 **Languages** any languages it knew in life
 
-**Challenge** 1 (200 XP)
+**Challenge** 3 (700 XP)
 
 ***Ethereal Sight.*** The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 
